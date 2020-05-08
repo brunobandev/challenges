@@ -1,0 +1,15 @@
+{
+    "require": {
+        "phpunit/phpunit": "^9.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Challenge\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Challenge\\Test\\": "tests/"
+        }
+    }
+}
