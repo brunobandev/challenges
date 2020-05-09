@@ -5,10 +5,6 @@ namespace Challenge\Test;
 use Challenge\FooBar\FooBar;
 use PHPUnit\Framework\TestCase;
 
-/**
- * @internal
- * @coversNothing
- */
 class FooBarTest extends TestCase
 {
     public function testShouldReturnFooIfIsMultiplyByThree(): void

@@ -17,9 +17,9 @@ class FooBar
     {
         ksort($multiply);
         foreach ($multiply as $key => $value) {
-            if (0 == $number % $key) {
+            if ($number % $key == 0) {
                 $this->isMultipleOf = true;
-                $this->result = $this->result.$value;
+                $this->result = $this->result . $value;
             }
         }
 
