@@ -26,14 +26,3 @@ class FooBar
         return ($this->isMultipleOf) ? $this->result : $number;
     }
 }
-
-// $array = [
-//     3 => 'Foo',
-//     5 => 'Bar',
-// ];
-
-// $numbers = range(1, 100);
-
-// for ($i = 1; $i < count($numbers); ++$i) {
-//     echo (new FooBar())->check($i, $array).PHP_EOL;
-// }
