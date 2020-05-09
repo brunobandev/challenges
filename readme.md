@@ -18,3 +18,8 @@ I am studying tests and I would like to see what your thinking is like. So try n
 
 
 **Thank you :)**
+
+## Answers
+
+* [nawarian](https://gist.github.com/nawarian/fc54755ad875198b1f48ab1afa0f5299)
+* [Morkhusz](https://gist.github.com/Morkhusz/a9bfe84824b6000f499fab13e628b096)
